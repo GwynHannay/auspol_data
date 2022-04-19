@@ -32,6 +32,7 @@ I am time poor and there is an election coming up as I create this (April 2022),
   - [Australian Taxation Office](https://data.gov.au/data/organization/australiantaxationoffice) - Includes tax statistics, releases of ad-hoc data requests, information about the voluntary tax transparency code, self managed super funds, corporate tax transparency, and HELP (Higher Education Loan Program) data.
   - [Australian Bureau of Statistics](https://data.gov.au/data/organization/australianbureauofstatistics) - Includes net overseas migration, population demographics, net interstate migration, house pricing data, consumption of alcohol, and much more.
   - [Australian Public Service Commission](https://data.gov.au/data/organization/australianpublicservicecommission) - Public Services employee census, employment data, and the APS Career Pathfinder.
+  - [ABARES](https://data.gov.au/data/organization/abares) - Australian Bureau of Agriculture and Resource Economics and Sciences
 - [Data.SA](https://data.sa.gov.au/data/dataset) - South Australian Government Data Directory. Includes datasets from organisations within the South Australian government such as SA Health, Department fo the Premier and Cabinet, SA Housing Authority, City of Adelaide, Environmental Protection Agency, etc.
 - [Geoscience Australia](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search)
 - [Bureau of Meteorology](http://www.bom.gov.au/metadata/catalogue/search.shtml)
