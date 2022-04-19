@@ -34,6 +34,7 @@ I am time poor and there is an election coming up as I create this (April 2022),
   - [Australian Public Service Commission](https://data.gov.au/data/organization/australianpublicservicecommission) - Public Services employee census, employment data, and the APS Career Pathfinder.
 - [Data.SA](https://data.sa.gov.au/data/dataset) - South Australian Government Data Directory. Includes datasets from organisations within the South Australian government such as SA Health, Department fo the Premier and Cabinet, SA Housing Authority, City of Adelaide, Environmental Protection Agency, etc.
 - [Geoscience Australia](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search)
+- [Bureau of Meteorology](http://www.bom.gov.au/metadata/catalogue/search.shtml)
 
 --------
 
