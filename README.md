@@ -21,6 +21,7 @@ I am time poor and there is an election coming up as I create this (April 2022),
 **[`^        back to top        ^`](#)**
 
 - [AEC Transparency Register](https://transparency.aec.gov.au/Download) - Donations and expenditure by parties and campaigns.
+- [Hansard](https://www.aph.gov.au/Parliamentary_Business/Hansard) - Transcripts of Australian parliament and its committees. You can download parliamentary debates for the [Senate](https://www.aph.gov.au/Parliamentary_Business/Hansard/Hanssen261110) and the [House of Representatives](https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansreps_2011).
 
 --------
 
