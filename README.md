@@ -22,6 +22,10 @@ I am time poor and there is an election coming up as I create this (April 2022),
 
 - [AEC Transparency Register](https://transparency.aec.gov.au/Download) - Donations and expenditure by parties and campaigns.
 - [Hansard](https://www.aph.gov.au/Parliamentary_Business/Hansard) - Transcripts of Australian parliament and its committees. You can download parliamentary debates for the [Senate](https://www.aph.gov.au/Parliamentary_Business/Hansard/Hanssen261110) and the [House of Representatives](https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansreps_2011).
+- [Our World in Data](https://github.com/owid) - Lots and lots of data in various repositories, including:
+  - [COVID-19 Data](https://github.com/owid/covid-19-data/tree/master/public/data) - Worldwide data on vaccinations, tests, hospitals, deaths, etc.
+  - [CO2 Data](https://github.com/owid/co2-data) - CO2 and Greenhouse Gas emissions, as well as energy consumptions across the globe.
+  - [General Datasets](https://github.com/owid/owid-datasets/tree/master/datasets) - To be used with caution.
 
 --------
 
