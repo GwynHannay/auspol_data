@@ -40,6 +40,7 @@ I am time poor and there is an election coming up as I create this (April 2022),
   - [Australian Public Service Commission](https://data.gov.au/data/organization/australianpublicservicecommission) - Public Services employee census, employment data, and the APS Career Pathfinder.
   - [ABARES](https://data.gov.au/data/organization/abares) - Australian Bureau of Agriculture and Resource Economics and Sciences
 - [Data.SA](https://data.sa.gov.au/data/dataset) - South Australian Government Data Directory. Includes datasets from organisations within the South Australian government such as SA Health, Department fo the Premier and Cabinet, SA Housing Authority, City of Adelaide, Environmental Protection Agency, etc.
+- [Queensland Government](https://www.data.qld.gov.au/dataset) - Open Data Portal for Queensland Government, including datasets for organisations such as Environment and Science, Communities, Housing and Digital Economy, and Queensland Health.
 - [Geoscience Australia](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search)
 - [Bureau of Meteorology](http://www.bom.gov.au/metadata/catalogue/search.shtml)
 
